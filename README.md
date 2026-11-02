@@ -12,7 +12,7 @@ Hi, I'm Pol. This is my new account. I like building stuff around security, inve
 
 - Building stuff around AI security and the investment world
 
-- Interviewing exceptional people for [Views](https://viewsbypol.com), a newsletter built on conversations with guests from places like Apple, Google, Founders Fund and NASA (whenever I find some free time)
+- Interviewing exceptional people for [Views](https://viewsbypol.com), a newsletter built on conversations with guests from places like Apple, Google, Founders Fund and NASA (whenever I find some free time though)
 
 ### Previously
 
