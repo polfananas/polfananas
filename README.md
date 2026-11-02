@@ -1,8 +1,10 @@
 # Pol Fañanás
 
-**Alternative Investments, VC & Startups | Building around AI security**
-
 Hi, I'm Pol. This is my new account. I like building stuff around security, investing, finance and social impact.
+
+🔗 [polfananas.com](https://polfananas.com)
+
+𝕏 [@polfananas](https://x.com/polfananas)
 
 ### Currently
 
@@ -24,7 +26,8 @@ Hi, I'm Pol. This is my new account. I like building stuff around security, inve
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=databricks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
