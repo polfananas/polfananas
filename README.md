@@ -18,7 +18,7 @@ Hi, I'm Pol. This is my new account. I like building stuff around security, inve
 
 - VC @ [Kibo Ventures](https://www.kiboventures.com/), Spanish VC with >€350m AUM, 5 unicorns, and 1 NASDAQ IPO
 
-- Early employee @ [Validated ID](https://www.validatedid.com/), a digital identity and e-signature security startup backed by Caixa Capital Risc (VC of Caixabank). Helped build and scale it. It was acquired by Signaturit Group (PSG Equity)
+- Early employee @ [Validated ID](https://www.validatedid.com/), a digital identity and e-signature security startup backed by Caixa Capital Risc (VC of Caixabank). Helped build and scale it. It was acquired by Signaturit Group & PSG Equity
 
 - Sales @ [Kantox](https://www.kantox.com/), an FX risk management startup acquired by BNP Paribas
 
