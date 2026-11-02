@@ -4,13 +4,17 @@ Hi, I'm Pol. This is my new account. I like building stuff around security, inve
 
 🔗 [polfananas.com](https://polfananas.com)
 
-𝕏 [@polfananas](https://x.com/polfananas)
+𝕏  [@polfananas](https://x.com/polfananas)
 
 ### Currently
 
 - Director/Principal @ Talea, the alternative investments team linked to [Trea](https://treaam.com/), a Spanish asset manager with over €11bn AUM
 
+- Interviewing exceptional people every know and t
+
 - Building stuff around AI security and the investment world
+
+- Interviewing exceptional people for [Views](https://viewsbypol.com), a newsletter built on conversations with guests from places like Apple, Google, Founders Fund and NASA (whenever I find some free time)
 
 ### Previously
 
