@@ -4,7 +4,7 @@ Hi, I'm Pol. This is my new account. I like building stuff around security, inve
 
 🔗 [polfananas.com](https://polfananas.com)
 
-𝕏  [@polfananas](https://x.com/polfananas)
+𝕏   [@polfananas](https://x.com/polfananas)
 
 ### Currently
 
