@@ -8,7 +8,7 @@ Hi, I'm Pol. This is my new account. I like building stuff around security, inve
 
 ### Currently
 
-- Director/Principal @ Talea, the alternative investments team linked to [Trea](https://treaam.com/), a Spanish asset manager with over €11bn AUM
+- Director/Principal @ Talea, the alternative investments arm of [Trea](https://treaam.com/), a Spanish asset manager with over €11bn AUM
 
 - Building stuff around AI security and the investment world
 
