@@ -1,16 +1,33 @@
-## Hi there 👋
+# Pol Fañanás
 
-<!--
-**polfananas/polfananas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Alternative Investments, VC & Startups | Building around AI security**
 
-Here are some ideas to get you started:
+Hi, I'm Pol. This is my new account. I like building stuff around security, investing, finance and social impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+
+- Director/Principal @ Talea, the alternative investments team linked to [Trea](https://treaam.com/), a Spanish asset manager with over €11bn AUM
+
+- Building stuff around AI security and the investment world
+
+### Previously
+
+- VC @ [Kibo Ventures](https://www.kiboventures.com/)
+
+- Early employee @ [Validated ID](https://www.validatedid.com/), a digital identity and e-signature startup backed by Caixa Capital Risc (VC of Caixabank). Helped build and scale it. It was acquired by Signaturit Group (PSG Equity)
+
+- Sales @ [Kantox](https://www.kantox.com/), an FX risk management startup acquired by BNP Paribas
+
+### Stuff I use
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
