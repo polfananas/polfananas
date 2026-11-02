@@ -2,9 +2,8 @@
 
 Hi, I'm Pol. This is my new account. I like building stuff around security, investing, finance and social impact.
 
-🔗 [polfananas.com](https://polfananas.com)
-
-𝕏   [@polfananas](https://x.com/polfananas)
+[![Website](https://img.shields.io/badge/polfananas.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://polfananas.com)
+[![X](https://img.shields.io/badge/@polfananas-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/polfananas)
 
 ### Currently
 
